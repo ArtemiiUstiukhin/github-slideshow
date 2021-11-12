@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Hello from LUT!
+Fork is a good Git client!
 Use the left arrow to go back!
